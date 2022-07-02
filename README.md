@@ -1,5 +1,5 @@
 
-\Think Like a Programmer
+# Think Like a Programmer
 
 In this repo I publish notes and answers to the exercises appearing in
 [Think Like a Programmer](https://nostarch.com/thinklikeaprogrammer)
